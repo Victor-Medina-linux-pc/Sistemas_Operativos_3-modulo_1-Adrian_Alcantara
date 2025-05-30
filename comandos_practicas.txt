@@ -1,0 +1,42 @@
+Comandos usados práctica 1
+============================================
+date
+
+
+Comandos usados práctica 2
+============================================
+ip a
+ping <ip>
+traceroute
+dhcpcd
+nslooup
+nmtui
+sudo
+ifdown
+ifup
+nano
+
+Comandos usados práctica 3
+============================================
+sudo 
+su
+adduser
+addgroup
+whoami
+exit
+deluser
+delgroup
+usermod
+groups
+cd
+
+Comandos usados práctica 4
+============================================
+mkdir
+touch
+cp
+vi
+cd 
+ls
+rm
+date
